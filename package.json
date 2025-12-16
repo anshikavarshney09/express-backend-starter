@@ -1,0 +1,29 @@
+{
+  "name": "express-backend-starter",
+  "version": "1.0.0",
+  "description": "Express.js backend for GSoC 2026 preparation",
+  "main": "index.js",
+  "scripts": {
+  "dev": "nodemon src/server.js"
+},
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anshikavarshney09/express-backend-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/anshikavarshney09/express-backend-starter/issues"
+  },
+  "homepage": "https://github.com/anshikavarshney09/express-backend-starter#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
